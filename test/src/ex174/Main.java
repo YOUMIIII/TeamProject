@@ -9,6 +9,7 @@ public class Main {
     private final int sum;
 
     int test;
+    String yeahhhhhhhhhhhhhhh;
 
     public Main(int sub1, int sub2, int sub3) {
         this.sub1 = sub1;
