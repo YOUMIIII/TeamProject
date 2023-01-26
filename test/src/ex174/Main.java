@@ -8,6 +8,8 @@ public class Main {
     private final int sub3;
     private final int sum;
 
+    int test;
+
     public Main(int sub1, int sub2, int sub3) {
         this.sub1 = sub1;
         this.sub2 = sub2;
