@@ -17,7 +17,7 @@ public class Main {
         this.sub3 = sub3;
         this.sum=sub1+sub2+sub3;
     }
-
+    int test2, test3;
 
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
