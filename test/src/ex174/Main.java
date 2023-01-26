@@ -11,6 +11,8 @@ public class Main {
     int test;
     String yeahhhhhhhhhhhhhhh;
 
+    String mergeTest;
+
     public Main(int sub1, int sub2, int sub3) {
         this.sub1 = sub1;
         this.sub2 = sub2;
